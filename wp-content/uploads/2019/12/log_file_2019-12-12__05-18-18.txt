@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Business were successfully downloaded!
+Initial max execution time = 280
+Files info:
+Site URL = http://ajtest.local
+Data file = /var/www/public_html/wp-content/uploads/2019/12/demo-content-import-file_2019-12-12__05-18-18.xml
+Widget file = /var/www/public_html/wp-content/uploads/2019/12/demo-widgets-import-file_2019-12-12__05-18-18.json
+Customizer file = /var/www/public_html/wp-content/uploads/2019/12/demo-customizer-import-file_2019-12-12__05-18-18.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "post-1" (Media)
+[ERROR] Failed to import "post-3" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "post-3" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "contact.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "mem-3.png" (Media)
+[ERROR] Failed to import "mem-1.png" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "mem-3.png" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - About Us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Services - Imported
+
+Footer 4 : 
+
+Custom HTML - Contact Us - Imported
+Airi: Social Profile - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
